@@ -10,7 +10,6 @@ class Solution:
         #this will be four adjacents and two diagonals
         ls = [size(p1,p2),size(p1,p3),size(p1,p4), size(p2,p3), size(p3,p4), size(p2,p4)]
         ls.sort()
-        print(ls)
         
         return ls[0]==ls[1]==ls[2]==ls[3] and ls[4]==ls[5]
         
