@@ -10,9 +10,7 @@ class Solution:
         def check(a, b):
             if not a and not b:
                 return True
-            if not a:
-                return False
-            if not b:
+            if not a or not b:
                 return False
             elif a.val!=b.val:
                 return False
