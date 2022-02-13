@@ -3,9 +3,9 @@ class Solution:
         pairs = {")":"(", "}":"{", "]": "["}
         accountability = []
         for letter in s:
-            if letter in "({[":
+            if letter in pairs.values():
                 accountability.append(letter)
-            elif letter in ")}]":
+            elif letter in pairs.keys():
                 if not accountability:
                     return False
                 if accountability[-1]==pairs[letter]:
