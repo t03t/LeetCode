@@ -6,11 +6,8 @@ class Solution:
             if prev!=None:
                 if prev == num:
                     nums[i-1]="_"
-                    if (i==1):
-                        print(nums)
                     k+=1
             prev = num
-        print(nums)
         #must push all of the _'s towards the back
         pointer = 0
         for j, num in enumerate(nums):
