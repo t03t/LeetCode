@@ -1,6 +1,30 @@
 type JSONValue = null | boolean | number | string | JSONValue[] | { [key: string]: JSONValue };
 type Fn = (...args: JSONValue[]) => void
+/**
+## setTimeout()
 
+A [`function`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function) to be executed after the timer expires.
+
+The time, in milliseconds, that the timer should wait before the specified function or code is executed. If this parameter is omitted, a value of 0 is used, meaning execute "immediately", or more accurately, the next event cycle.
+
+(The actual delay *may* be longer.)
+
+### parameter:
+
+delay : a number in milliseconds.
+
+### return value:
+
+timeoutID
+
+## clearTimeout()
+
+A timeout can be cleared using clearTimeout().
+
+### parameter:
+
+timeoutID:  identifier of the timeout you want to cancel. The corresponding call to `setTimeout()` returned this ID.
+ */
 function cancellable(fn: Fn, args: JSONValue[], t: number): Function {
     const runningTimer = setTimeout(() => {
         fn(...args)
