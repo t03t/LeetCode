@@ -1,10 +1,6 @@
-function* fibGenerator(): Generator<number, any, number> {
-    let prev = 0;
-    let prev2 = 1;
-    while(true) {
-        yield prev;
-        [prev, prev2] = [prev2, prev+prev2]
-    }
+function* fibGenerator(prev = 0, prev2 = 1): Generator<number, any, number> {
+    yield prev;
+    yield* fibGenerator(prev2, prev+prev2);
 };
 
 /**
