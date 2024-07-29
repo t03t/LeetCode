@@ -3,11 +3,7 @@ class Solution:
         if numRows==1:
             return s
         rows = [""] * numRows
-
-        res = ""
-        graph = defaultdict(list)
-        s = list(s)
-
+ 
         i = 0
         inc = 1
         for elem in s:
