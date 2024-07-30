@@ -16,4 +16,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/t03t/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/t03t/LeetCode/tree/master/0217-contains-duplicate) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/t03t/LeetCode/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/t03t/LeetCode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
