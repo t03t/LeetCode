@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0006-zigzag-conversion](https://github.com/t03t/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0049-group-anagrams](https://github.com/t03t/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/t03t/LeetCode/tree/master/0242-valid-anagram) |
+| [0271-encode-and-decode-strings](https://github.com/t03t/LeetCode/tree/master/0271-encode-and-decode-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0049-group-anagrams](https://github.com/t03t/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/t03t/LeetCode/tree/master/0217-contains-duplicate) |
+| [0271-encode-and-decode-strings](https://github.com/t03t/LeetCode/tree/master/0271-encode-and-decode-strings) |
 | [0347-top-k-frequent-elements](https://github.com/t03t/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
@@ -58,4 +60,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/t03t/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Design
+|  |
+| ------- |
+| [0271-encode-and-decode-strings](https://github.com/t03t/LeetCode/tree/master/0271-encode-and-decode-strings) |
 <!---LeetCode Topics End-->
