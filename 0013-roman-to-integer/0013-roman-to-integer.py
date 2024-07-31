@@ -14,7 +14,6 @@ class Solution:
         prev = "Z"
         for i in range(len(s)-1, -1, -1):
             cur = s[i]
-            print("Cur:", cur, "Prev: ", prev)
             if map[cur] < map[prev]:
                 number -= map[cur]
             else:
