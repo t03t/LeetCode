@@ -1,13 +1,12 @@
 type F = (...args: number[]) => void
 
 function debounce(fn: F, t: number): F {
-    const cache = new Map();
+    let timeoutId = null;
     return function(...args) {
-        if (cache.has(fn)) {
-            clearTimeout(cache.get(fn));
+        if (timeoutId) {
+            clearTimeout(timeoutId);
         }
-        const timeoutId = setTimeout(() => fn(...args), t);
-        cache.set(fn, timeoutId);
+        timeoutId = setTimeout(() => fn(...args), t);
     }
 };
 
