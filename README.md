@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/t03t/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [3343-count-numbers-with-unique-digits-ii](https://github.com/t03t/LeetCode/tree/master/3343-count-numbers-with-unique-digits-ii) |
 ## Array
 |  |
 | ------- |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/t03t/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/t03t/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/t03t/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [3343-count-numbers-with-unique-digits-ii](https://github.com/t03t/LeetCode/tree/master/3343-count-numbers-with-unique-digits-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -89,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0013-roman-to-integer](https://github.com/t03t/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/t03t/LeetCode/tree/master/0066-plus-one) |
+| [3343-count-numbers-with-unique-digits-ii](https://github.com/t03t/LeetCode/tree/master/3343-count-numbers-with-unique-digits-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
