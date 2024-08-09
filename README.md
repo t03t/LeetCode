@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/t03t/LeetCode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/t03t/LeetCode/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/t03t/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/t03t/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/t03t/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/t03t/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0271-encode-and-decode-strings](https://github.com/t03t/LeetCode/tree/master/0271-encode-and-decode-strings) |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/t03t/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/t03t/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/t03t/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/t03t/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/t03t/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/t03t/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/t03t/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -51,12 +53,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/t03t/LeetCode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/t03t/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/t03t/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/t03t/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/t03t/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/t03t/LeetCode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/t03t/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/t03t/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
@@ -70,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/t03t/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/t03t/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
