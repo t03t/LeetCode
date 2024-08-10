@@ -1,9 +1,5 @@
 class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
-        from typing import List
-
-class Solution:
-    def threeSum(self, nums: List[int]) -> List[List[int]]:
         def twoSum(nums: List[int], target: int):
             l = 0
             r = len(nums) - 1
