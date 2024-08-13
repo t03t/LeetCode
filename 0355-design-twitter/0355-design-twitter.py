@@ -1,4 +1,5 @@
 import heapq
+from typing import List
 
 class Twitter:
     class User:
@@ -20,13 +21,18 @@ class Twitter:
 
         def getNewsFeed(self, allUsers):
             min_heap = []
+            # Add the user's own tweets
             for tweet in self.tweets:
                 heapq.heappush(min_heap, tweet)
+                if len(min_heap) > 10:
+                    heapq.heappop(min_heap)
             for followeeId in self.following:
                 if followeeId in allUsers:
                     for tweet in allUsers[followeeId].tweets:
                         heapq.heappush(min_heap, tweet)
-            return [tweetId for _, tweetId in heapq.nlargest(10, min_heap)]
+                        if len(min_heap) > 10:
+                            heapq.heappop(min_heap)
+            return [tweetId for _, tweetId in sorted(min_heap, reverse=True)]
 
 
     def __init__(self):
