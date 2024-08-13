@@ -20,17 +20,22 @@ class Twitter:
 
         def getNewsFeed(self, allUsers):
             min_heap = []
-            # Add the user's own tweets
             for tweet in self.tweets:
-                heapq.heappush(min_heap, tweet)
-                if len(min_heap) > 10:
-                    heapq.heappop(min_heap)
+                if len(min_heap) < 10:
+                    heapq.heappush(min_heap, tweet)
+                else:
+                    heapq.heappushpop(min_heap, tweet)
+                    
             for followeeId in self.following:
                 if followeeId in allUsers:
                     for tweet in allUsers[followeeId].tweets:
-                        heapq.heappush(min_heap, tweet)
-                        if len(min_heap) > 10:
-                            heapq.heappop(min_heap)
+                        if len(min_heap) < 10:
+                            heapq.heappush(min_heap, tweet)
+                        else:
+                            heapq.heappushpop(min_heap, tweet)
+
+            # We now have the 10 most recent tweets in the heap, but they may not be in order.
+            # We need to pop all items from the heap to get them in order from most recent to oldest.
             return [tweetId for _, tweetId in sorted(min_heap, reverse=True)]
 
 
