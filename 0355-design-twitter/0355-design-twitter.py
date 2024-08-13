@@ -1,48 +1,32 @@
+import heapq
 
 class Twitter:
     class User:
-        def __init__(self, userId: int, tweets=None, followers=None, following=None):
+        def __init__(self, userId: int):
             self.userId = userId
-            self.tweets = tweets if tweets is not None else []
-            self.followers = followers if followers is not None else []
-            self.following = following if following is not None else []
+            self.tweets = []
+            self.following = set()
 
-        def follow(self, followerId: int):
-            if followerId not in self.following:
-                self.following.append(followerId)
+        def follow(self, followeeId: int):
+            if followeeId != self.userId:
+                self.following.add(followeeId)
 
-        def unfollow(self, followerId: int):
-            if followerId in self.following:
-                self.following.remove(followerId)
-
-        def getFollowedBy(self, followerId: int):
-            self.followers.append(followerId)
-
-        def getUnfollowedBy(self, followerId: int):
-            if followerId in self.followers:
-                self.followers.remove(followerId)
+        def unfollow(self, followeeId: int):
+            if followeeId in self.following:
+                self.following.remove(followeeId)
 
         def post(self, tweetId: int, timestamp: int):
             self.tweets.append((timestamp, tweetId))
 
-        def getTweets(self):
-            return self.tweets
-
         def getNewsFeed(self, allUsers):
-            allNews = []
-            # Include the user's own tweets
-            allNews.extend(self.tweets)
-            # Include the tweets from users this user is following
-            seen_tweets = set()
-            for userId in self.following:
-                if userId in allUsers:
-                    for tweet in allUsers[userId].tweets:
-                        if tweet[1] not in seen_tweets:
-                            seen_tweets.add(tweet[1])
-                            allNews.append(tweet)
-            # Sort by timestamp in reverse order
-            allNews.sort(reverse=True, key=lambda x: x[0])
-            return [tweetId for _, tweetId in allNews[:10]]
+            min_heap = []
+            for tweet in self.tweets:
+                heapq.heappush(min_heap, tweet)
+            for followeeId in self.following:
+                if followeeId in allUsers:
+                    for tweet in allUsers[followeeId].tweets:
+                        heapq.heappush(min_heap, tweet)
+            return [tweetId for _, tweetId in heapq.nlargest(10, min_heap)]
 
 
     def __init__(self):
@@ -66,12 +50,10 @@ class Twitter:
         if followeeId not in self.users:
             self.users[followeeId] = self.User(followeeId)
         self.users[followerId].follow(followeeId)
-        self.users[followeeId].getFollowedBy(followerId)
 
     def unfollow(self, followerId: int, followeeId: int) -> None:
         if followerId in self.users and followeeId in self.users:
             self.users[followerId].unfollow(followeeId)
-            self.users[followeeId].getUnfollowedBy(followerId)
 
 
 # Your Twitter object will be instantiated and called as such:
