@@ -1,10 +1,10 @@
-import heapq
+from collections import deque
 
 class Twitter:
     class User:
         def __init__(self, userId: int):
             self.userId = userId
-            self.tweets = []
+            self.tweets = deque()  # Using deque for fast appends and pops
             self.following = set()
 
         def follow(self, followeeId: int):
@@ -16,28 +16,12 @@ class Twitter:
                 self.following.remove(followeeId)
 
         def post(self, tweetId: int, timestamp: int):
-            self.tweets.append((timestamp, tweetId))
+            self.tweets.appendleft((timestamp, tweetId))
+            if len(self.tweets) > 10:
+                self.tweets.pop()
 
-        def getNewsFeed(self, allUsers):
-            min_heap = []
-            for tweet in self.tweets:
-                if len(min_heap) < 10:
-                    heapq.heappush(min_heap, tweet)
-                else:
-                    heapq.heappushpop(min_heap, tweet)
-                    
-            for followeeId in self.following:
-                if followeeId in allUsers:
-                    for tweet in allUsers[followeeId].tweets:
-                        if len(min_heap) < 10:
-                            heapq.heappush(min_heap, tweet)
-                        else:
-                            heapq.heappushpop(min_heap, tweet)
-
-            # We now have the 10 most recent tweets in the heap, but they may not be in order.
-            # We need to pop all items from the heap to get them in order from most recent to oldest.
-            return [tweetId for _, tweetId in sorted(min_heap, reverse=True)]
-
+        def getTweets(self):
+            return list(self.tweets)
 
     def __init__(self):
         self.users = {}
@@ -50,9 +34,18 @@ class Twitter:
         self.timestamp += 1
 
     def getNewsFeed(self, userId: int) -> List[int]:
-        if userId in self.users:
-            return self.users[userId].getNewsFeed(self.users)
-        return []
+        if userId not in self.users:
+            return []
+
+        # Gather the user's tweets and the tweets of followed users
+        news_feed = list(self.users[userId].getTweets())
+        for followeeId in self.users[userId].following:
+            if followeeId in self.users:
+                news_feed.extend(self.users[followeeId].getTweets())
+
+        # Sort only if necessary, we limit the size to the 10 most recent tweets
+        news_feed.sort(reverse=True, key=lambda x: x[0])
+        return [tweetId for _, tweetId in news_feed[:10]]
 
     def follow(self, followerId: int, followeeId: int) -> None:
         if followerId not in self.users:
