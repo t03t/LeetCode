@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/t03t/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0271-encode-and-decode-strings](https://github.com/t03t/LeetCode/tree/master/0271-encode-and-decode-strings) |
 | [0355-design-twitter](https://github.com/t03t/LeetCode/tree/master/0355-design-twitter) |
 ## Prefix Sum
@@ -140,4 +141,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/t03t/LeetCode/tree/master/0223-rectangle-area) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/t03t/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/t03t/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
