@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/t03t/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/t03t/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/t03t/LeetCode/tree/master/0189-rotate-array) |
+| [0223-rectangle-area](https://github.com/t03t/LeetCode/tree/master/0223-rectangle-area) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/t03t/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [3343-count-numbers-with-unique-digits-ii](https://github.com/t03t/LeetCode/tree/master/3343-count-numbers-with-unique-digits-ii) |
 ## Bit Manipulation
@@ -135,4 +136,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/t03t/LeetCode/tree/master/0355-design-twitter) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/t03t/LeetCode/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
