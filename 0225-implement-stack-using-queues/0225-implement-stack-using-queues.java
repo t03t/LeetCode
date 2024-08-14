@@ -1,30 +1,39 @@
+import java.util.LinkedList;
+import java.util.Queue;
+
 class MyStack {
-    public ArrayList<Integer> stack;
+    private Queue<Integer> queue;
 
     public MyStack() {
-        stack = new ArrayList<>();
+        queue = new LinkedList<>();
     }
-    
+
     public void push(int x) {
-        stack.add(x);
+        queue.add(x);
+        int size = queue.size();
+        // Rotate the queue to simulate stack behavior
+        while (size > 1) {
+            queue.add(queue.remove());
+            size--;
+        }
     }
-    
+
     public int pop() {
-        if (!stack.isEmpty()) {
-            return stack.remove(stack.size() - 1);
+        if (!queue.isEmpty()) {
+            return queue.remove();
         }
-        return -1;
+        return -1; // Or throw an exception for an empty stack
     }
-    
+
     public int top() {
-        if (!stack.isEmpty()) {
-            return stack.get(stack.size() - 1);
+        if (!queue.isEmpty()) {
+            return queue.peek();
         }
-        return -1;
+        return -1; // Or throw an exception for an empty stack
     }
-    
+
     public boolean empty() {
-        return stack.isEmpty();
+        return queue.isEmpty();
     }
 }
 
