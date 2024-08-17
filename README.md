@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/t03t/LeetCode/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/t03t/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/t03t/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/t03t/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/t03t/LeetCode/tree/master/0202-happy-number) |
@@ -157,4 +158,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/t03t/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/t03t/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
