@@ -3,21 +3,15 @@
  * @return {Object}
  */
 Array.prototype.groupBy = function(fn) {
-    let graph = new Map();
-
+    let res = {};
     for (let i of this) {
         let key = fn(i);
-        if (graph.has(key)) {
-            graph.get(key).push(i);
+        if (res[key]) {
+            res[key].push(i)
         }
         else {
-            graph.set(key, [i]);
+            res[key] = [i]
         }
-    }
-
-    let res = {};
-    for (let [key, val] of graph.entries()) {
-        res[key] = val;
     }
     return res;
 };
