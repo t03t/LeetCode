@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/t03t/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/t03t/LeetCode/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/t03t/LeetCode/tree/master/0223-rectangle-area) |
+| [0367-valid-perfect-square](https://github.com/t03t/LeetCode/tree/master/0367-valid-perfect-square) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/t03t/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2812-find-the-maximum-achievable-number](https://github.com/t03t/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3343-count-numbers-with-unique-digits-ii](https://github.com/t03t/LeetCode/tree/master/3343-count-numbers-with-unique-digits-ii) |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/t03t/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/t03t/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/t03t/LeetCode/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/t03t/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0783-search-in-a-binary-search-tree](https://github.com/t03t/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0792-binary-search](https://github.com/t03t/LeetCode/tree/master/0792-binary-search) |
 ## Binary Tree
