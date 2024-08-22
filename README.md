@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/t03t/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0271-encode-and-decode-strings](https://github.com/t03t/LeetCode/tree/master/0271-encode-and-decode-strings) |
 | [0347-top-k-frequent-elements](https://github.com/t03t/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0792-binary-search](https://github.com/t03t/LeetCode/tree/master/0792-binary-search) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/t03t/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/t03t/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [3194-find-words-containing-character](https://github.com/t03t/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/t03t/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/t03t/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0783-search-in-a-binary-search-tree](https://github.com/t03t/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0792-binary-search](https://github.com/t03t/LeetCode/tree/master/0792-binary-search) |
 ## Binary Tree
 |  |
 | ------- |
