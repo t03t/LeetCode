@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/t03t/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/t03t/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/t03t/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/t03t/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## String
 |  |
 | ------- |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/t03t/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0355-design-twitter](https://github.com/t03t/LeetCode/tree/master/0355-design-twitter) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/t03t/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Geometry
 |  |
 | ------- |
@@ -159,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/t03t/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/t03t/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/t03t/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Queue
 |  |
 | ------- |
