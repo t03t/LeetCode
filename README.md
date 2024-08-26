@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/t03t/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/t03t/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/t03t/LeetCode/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/t03t/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/t03t/LeetCode/tree/master/0242-valid-anagram) |
 | [0271-encode-and-decode-strings](https://github.com/t03t/LeetCode/tree/master/0271-encode-and-decode-strings) |
 | [3194-find-words-containing-character](https://github.com/t03t/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/t03t/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/t03t/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/t03t/LeetCode/tree/master/0069-sqrtx) |
+| [0168-excel-sheet-column-title](https://github.com/t03t/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/t03t/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/t03t/LeetCode/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/t03t/LeetCode/tree/master/0223-rectangle-area) |
