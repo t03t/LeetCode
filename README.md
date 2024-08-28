@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/t03t/LeetCode/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/t03t/LeetCode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/t03t/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/t03t/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/t03t/LeetCode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/t03t/LeetCode/tree/master/0066-plus-one) |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/t03t/LeetCode/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/t03t/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/t03t/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/t03t/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/t03t/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -213,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/t03t/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/t03t/LeetCode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/t03t/LeetCode/tree/master/0074-search-a-2d-matrix) |
 ## Interactive
