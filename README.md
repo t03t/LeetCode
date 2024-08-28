@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/t03t/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/t03t/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/t03t/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [2384-root-equals-sum-of-children](https://github.com/t03t/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/t03t/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/t03t/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/t03t/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [2384-root-equals-sum-of-children](https://github.com/t03t/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 ## Linked List
 |  |
 | ------- |
