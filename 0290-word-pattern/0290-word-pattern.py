@@ -14,3 +14,4 @@ class Solution:
                 else:
                     bijection[letter] = word
         return True
+        # Add bidirectional mapping to make it faster.
