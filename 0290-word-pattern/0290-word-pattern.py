@@ -5,11 +5,12 @@ class Solution:
             return False
         bijection = {}
         for letter, word in zip(pattern, words):
-            print(letter, word, bijection, bijection.values())
-            if letter in bijection and bijection[letter] != word:
-                return False
-            if letter not in bijection and word in bijection.values():
-                return False
-            elif letter not in bijection and word not in bijection.values():
-                bijection[letter] = word
+            if letter in bijection:
+                if bijection[letter] != word:
+                    return False
+            else:
+                if word in bijection.values():
+                    return False
+                else:
+                    bijection[letter] = word
         return True
