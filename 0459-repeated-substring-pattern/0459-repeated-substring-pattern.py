@@ -8,3 +8,6 @@ class Solution:
             if substr * (len(s)//len(substr)) == s and substr != s:
                 return True
         return False
+
+        #short one:
+        # return s in (s + s)[1:-1]
