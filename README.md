@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/t03t/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0792-binary-search](https://github.com/t03t/LeetCode/tree/master/0792-binary-search) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/t03t/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/t03t/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2331-intersection-of-multiple-arrays](https://github.com/t03t/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [3194-find-words-containing-character](https://github.com/t03t/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/t03t/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -211,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/t03t/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/t03t/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/t03t/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/t03t/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/t03t/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Queue
 |  |
@@ -260,4 +262,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/t03t/LeetCode/tree/master/0459-repeated-substring-pattern) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/t03t/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
