@@ -1,8 +1,10 @@
 class Solution:
     def repeatedSubstringPattern(self, s: str) -> bool:
-        n = len(s)
-        for i in range(1, n // 2 + 1):
-            if n % i == 0:
-                if s[:i] * (n // i) == s:
-                    return True
+        # Long Ass Solution
+        substr = ""
+        for letter in s:
+            substr += letter
+            # check if repeat substring makes s
+            if substr * (len(s)//len(substr)) == s and substr != s:
+                return True
         return False
