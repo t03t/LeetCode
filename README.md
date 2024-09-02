@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/t03t/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/t03t/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/t03t/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2211-k-radius-subarray-averages](https://github.com/t03t/LeetCode/tree/master/2211-k-radius-subarray-averages) |
 | [2331-intersection-of-multiple-arrays](https://github.com/t03t/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2358-number-of-ways-to-split-array](https://github.com/t03t/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [3194-find-words-containing-character](https://github.com/t03t/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -297,4 +298,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0487-max-consecutive-ones-ii](https://github.com/t03t/LeetCode/tree/master/0487-max-consecutive-ones-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/t03t/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/t03t/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [2211-k-radius-subarray-averages](https://github.com/t03t/LeetCode/tree/master/2211-k-radius-subarray-averages) |
 <!---LeetCode Topics End-->
