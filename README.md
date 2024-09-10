@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0953-reverse-only-letters](https://github.com/t03t/LeetCode/tree/master/0953-reverse-only-letters) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/t03t/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [3194-find-words-containing-character](https://github.com/t03t/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3425-maximum-number-of-potholes-that-can-be-fixed](https://github.com/t03t/LeetCode/tree/master/3425-maximum-number-of-potholes-that-can-be-fixed) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/t03t/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1019-squares-of-a-sorted-array](https://github.com/t03t/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/t03t/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
+| [3425-maximum-number-of-potholes-that-can-be-fixed](https://github.com/t03t/LeetCode/tree/master/3425-maximum-number-of-potholes-that-can-be-fixed) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -311,4 +313,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/t03t/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/t03t/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [2211-k-radius-subarray-averages](https://github.com/t03t/LeetCode/tree/master/2211-k-radius-subarray-averages) |
+## Greedy
+|  |
+| ------- |
+| [3425-maximum-number-of-potholes-that-can-be-fixed](https://github.com/t03t/LeetCode/tree/master/3425-maximum-number-of-potholes-that-can-be-fixed) |
 <!---LeetCode Topics End-->
