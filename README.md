@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0459-repeated-substring-pattern](https://github.com/t03t/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/t03t/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0953-reverse-only-letters](https://github.com/t03t/LeetCode/tree/master/0953-reverse-only-letters) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/t03t/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/t03t/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [3194-find-words-containing-character](https://github.com/t03t/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3425-maximum-number-of-potholes-that-can-be-fixed](https://github.com/t03t/LeetCode/tree/master/3425-maximum-number-of-potholes-that-can-be-fixed) |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/t03t/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/t03t/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/t03t/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/t03t/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2211-k-radius-subarray-averages](https://github.com/t03t/LeetCode/tree/master/2211-k-radius-subarray-averages) |
 | [2331-intersection-of-multiple-arrays](https://github.com/t03t/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2358-number-of-ways-to-split-array](https://github.com/t03t/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
@@ -104,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/t03t/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/t03t/LeetCode/tree/master/0355-design-twitter) |
 | [0906-walking-robot-simulation](https://github.com/t03t/LeetCode/tree/master/0906-walking-robot-simulation) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/t03t/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2331-intersection-of-multiple-arrays](https://github.com/t03t/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/t03t/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3343-count-numbers-with-unique-digits-ii](https://github.com/t03t/LeetCode/tree/master/3343-count-numbers-with-unique-digits-ii) |
@@ -139,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/t03t/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/t03t/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/t03t/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2331-intersection-of-multiple-arrays](https://github.com/t03t/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 ## Quickselect
 |  |
@@ -185,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0191-number-of-1-bits](https://github.com/t03t/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/t03t/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/t03t/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Tree
 |  |
 | ------- |
