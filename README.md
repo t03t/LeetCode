@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/t03t/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/t03t/LeetCode/tree/master/0392-is-subsequence) |
 | [0459-repeated-substring-pattern](https://github.com/t03t/LeetCode/tree/master/0459-repeated-substring-pattern) |
+| [0539-minimum-time-difference](https://github.com/t03t/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/t03t/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0953-reverse-only-letters](https://github.com/t03t/LeetCode/tree/master/0953-reverse-only-letters) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/t03t/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/t03t/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/t03t/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0487-max-consecutive-ones-ii](https://github.com/t03t/LeetCode/tree/master/0487-max-consecutive-ones-ii) |
+| [0539-minimum-time-difference](https://github.com/t03t/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0643-maximum-average-subarray-i](https://github.com/t03t/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/t03t/LeetCode/tree/master/0792-binary-search) |
 | [0906-walking-robot-simulation](https://github.com/t03t/LeetCode/tree/master/0906-walking-robot-simulation) |
@@ -120,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/t03t/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/t03t/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/t03t/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0539-minimum-time-difference](https://github.com/t03t/LeetCode/tree/master/0539-minimum-time-difference) |
 | [1019-squares-of-a-sorted-array](https://github.com/t03t/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/t03t/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [3425-maximum-number-of-potholes-that-can-be-fixed](https://github.com/t03t/LeetCode/tree/master/3425-maximum-number-of-potholes-that-can-be-fixed) |
@@ -182,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0223-rectangle-area](https://github.com/t03t/LeetCode/tree/master/0223-rectangle-area) |
 | [0258-add-digits](https://github.com/t03t/LeetCode/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/t03t/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0539-minimum-time-difference](https://github.com/t03t/LeetCode/tree/master/0539-minimum-time-difference) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/t03t/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2812-find-the-maximum-achievable-number](https://github.com/t03t/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/t03t/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
