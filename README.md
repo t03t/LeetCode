@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0953-reverse-only-letters](https://github.com/t03t/LeetCode/tree/master/0953-reverse-only-letters) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/t03t/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/t03t/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/t03t/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/t03t/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2427-first-letter-to-appear-twice](https://github.com/t03t/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/t03t/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0906-walking-robot-simulation](https://github.com/t03t/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/t03t/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/t03t/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/t03t/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2331-intersection-of-multiple-arrays](https://github.com/t03t/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2427-first-letter-to-appear-twice](https://github.com/t03t/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [3227-find-missing-and-repeated-values](https://github.com/t03t/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -163,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/t03t/LeetCode/tree/master/0383-ransom-note) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/t03t/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/t03t/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/t03t/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2331-intersection-of-multiple-arrays](https://github.com/t03t/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2427-first-letter-to-appear-twice](https://github.com/t03t/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 ## Quickselect
