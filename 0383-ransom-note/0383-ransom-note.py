@@ -1,3 +1,4 @@
 class Solution:
     def canConstruct(self, ransomNote: str, magazine: str) -> bool:
-        return all(Counter(ransomNote)[char] <= Counter(magazine)[char] for char in Counter(ransomNote))
+        ransom_count = Counter(ransomNote)
+        return all(ransom_count[char] <= Counter(magazine)[char] for char in ransom_count)
