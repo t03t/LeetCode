@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/t03t/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/t03t/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/t03t/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2427-first-letter-to-appear-twice](https://github.com/t03t/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/t03t/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3194-find-words-containing-character](https://github.com/t03t/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3425-maximum-number-of-potholes-that-can-be-fixed](https://github.com/t03t/LeetCode/tree/master/3425-maximum-number-of-potholes-that-can-be-fixed) |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0920-uncommon-words-from-two-sentences](https://github.com/t03t/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/t03t/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2331-intersection-of-multiple-arrays](https://github.com/t03t/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
+| [2427-first-letter-to-appear-twice](https://github.com/t03t/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [3227-find-missing-and-repeated-values](https://github.com/t03t/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3343-count-numbers-with-unique-digits-ii](https://github.com/t03t/LeetCode/tree/master/3343-count-numbers-with-unique-digits-ii) |
 ## Sorting
@@ -162,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0920-uncommon-words-from-two-sentences](https://github.com/t03t/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/t03t/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2331-intersection-of-multiple-arrays](https://github.com/t03t/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
+| [2427-first-letter-to-appear-twice](https://github.com/t03t/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 ## Quickselect
 |  |
 | ------- |
@@ -211,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/t03t/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [1435-xor-queries-of-a-subarray](https://github.com/t03t/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/t03t/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2427-first-letter-to-appear-twice](https://github.com/t03t/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 ## Tree
 |  |
 | ------- |
