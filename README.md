@@ -285,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/t03t/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/t03t/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/t03t/LeetCode/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/t03t/LeetCode/tree/master/0146-lru-cache) |
