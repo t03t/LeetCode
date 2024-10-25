@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0953-reverse-only-letters](https://github.com/t03t/LeetCode/tree/master/0953-reverse-only-letters) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/t03t/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1297-maximum-number-of-balloons](https://github.com/t03t/LeetCode/tree/master/1297-maximum-number-of-balloons) |
+| [1666-make-the-string-great](https://github.com/t03t/LeetCode/tree/master/1666-make-the-string-great) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/t03t/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/t03t/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/t03t/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -315,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/t03t/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/t03t/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/t03t/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1666-make-the-string-great](https://github.com/t03t/LeetCode/tree/master/1666-make-the-string-great) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/t03t/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/t03t/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Queue
