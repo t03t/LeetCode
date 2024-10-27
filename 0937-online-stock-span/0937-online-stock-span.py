@@ -5,7 +5,6 @@ class StockSpanner:
         self.mono_stack = []
         
     def next(self, price: int) -> int:
-        print("mono_stack: ", self.mono_stack, " price: ", price)
         res = 1
         while self.mono_stack and price >= self.mono_stack[-1][0]:
             res += self.mono_stack[-1][1]
