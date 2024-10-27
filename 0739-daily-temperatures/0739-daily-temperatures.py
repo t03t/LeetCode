@@ -3,7 +3,7 @@ class Solution:
         res = [0] * len(temperatures)
         mono_stack = []
         for i, temp in enumerate(temperatures):
-            while mono_stack and temperatures[mono_stack[-1]] < temperatures[i]:
+            while mono_stack and temperatures[mono_stack[-1]] < temp:
                 j = mono_stack.pop()
                 res[j] = i - j
             mono_stack.append(i)
