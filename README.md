@@ -414,4 +414,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0346-moving-average-from-data-stream](https://github.com/t03t/LeetCode/tree/master/0346-moving-average-from-data-stream) |
 | [0937-online-stock-span](https://github.com/t03t/LeetCode/tree/master/0937-online-stock-span) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/t03t/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
