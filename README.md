@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/t03t/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/t03t/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2427-first-letter-to-appear-twice](https://github.com/t03t/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
+| [2580-circular-sentence](https://github.com/t03t/LeetCode/tree/master/2580-circular-sentence) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/t03t/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3194-find-words-containing-character](https://github.com/t03t/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3425-maximum-number-of-potholes-that-can-be-fixed](https://github.com/t03t/LeetCode/tree/master/3425-maximum-number-of-potholes-that-can-be-fixed) |
