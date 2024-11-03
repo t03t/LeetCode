@@ -427,4 +427,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/t03t/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/t03t/LeetCode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/t03t/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+| [2223-the-number-of-rich-customers](https://github.com/t03t/LeetCode/tree/master/2223-the-number-of-rich-customers) |
 <!---LeetCode Topics End-->
