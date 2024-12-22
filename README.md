@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2876-number-of-employees-who-met-the-target](https://github.com/t03t/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/t03t/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/t03t/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3577-convert-doubly-linked-list-to-array-i](https://github.com/t03t/LeetCode/tree/master/3577-convert-doubly-linked-list-to-array-i) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/t03t/LeetCode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Hash Table
 |  |
@@ -330,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0908-middle-of-the-linked-list](https://github.com/t03t/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1765-merge-in-between-linked-lists](https://github.com/t03t/LeetCode/tree/master/1765-merge-in-between-linked-lists) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/t03t/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [3577-convert-doubly-linked-list-to-array-i](https://github.com/t03t/LeetCode/tree/master/3577-convert-doubly-linked-list-to-array-i) |
 ## Geometry
 |  |
 | ------- |
@@ -446,6 +448,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/t03t/LeetCode/tree/master/0146-lru-cache) |
+| [3577-convert-doubly-linked-list-to-array-i](https://github.com/t03t/LeetCode/tree/master/3577-convert-doubly-linked-list-to-array-i) |
 ## Data Stream
 |  |
 | ------- |
