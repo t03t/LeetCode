@@ -1,6 +1,6 @@
 class Solution:
     def minCostClimbingStairs(self, cost: List[int]) -> int:
-        @lru_cache
+        @cache
         def minimum_cost(i):
             if i <= 1:
                 return 0
