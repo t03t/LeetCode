@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/t03t/LeetCode/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/t03t/LeetCode/tree/master/0392-is-subsequence) |
 | [0487-max-consecutive-ones-ii](https://github.com/t03t/LeetCode/tree/master/0487-max-consecutive-ones-ii) |
+| [0747-min-cost-climbing-stairs](https://github.com/t03t/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/t03t/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [3343-count-numbers-with-unique-digits-ii](https://github.com/t03t/LeetCode/tree/master/3343-count-numbers-with-unique-digits-ii) |
 ## Array
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/t03t/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/t03t/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/t03t/LeetCode/tree/master/0739-daily-temperatures) |
+| [0747-min-cost-climbing-stairs](https://github.com/t03t/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/t03t/LeetCode/tree/master/0792-binary-search) |
 | [0906-walking-robot-simulation](https://github.com/t03t/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [1002-maximum-width-ramp](https://github.com/t03t/LeetCode/tree/master/1002-maximum-width-ramp) |
