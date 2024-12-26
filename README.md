@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/t03t/LeetCode/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/t03t/LeetCode/tree/master/0392-is-subsequence) |
 | [0487-max-consecutive-ones-ii](https://github.com/t03t/LeetCode/tree/master/0487-max-consecutive-ones-ii) |
+| [1236-n-th-tribonacci-number](https://github.com/t03t/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [3343-count-numbers-with-unique-digits-ii](https://github.com/t03t/LeetCode/tree/master/3343-count-numbers-with-unique-digits-ii) |
 ## Array
 |  |
@@ -249,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0258-add-digits](https://github.com/t03t/LeetCode/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/t03t/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0539-minimum-time-difference](https://github.com/t03t/LeetCode/tree/master/0539-minimum-time-difference) |
+| [1236-n-th-tribonacci-number](https://github.com/t03t/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/t03t/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2812-find-the-maximum-achievable-number](https://github.com/t03t/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/t03t/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -485,4 +487,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1187-print-foobar-alternately](https://github.com/t03t/LeetCode/tree/master/1187-print-foobar-alternately) |
 | [1203-print-in-order](https://github.com/t03t/LeetCode/tree/master/1203-print-in-order) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/t03t/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
