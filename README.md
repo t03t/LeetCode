@@ -293,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/t03t/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/t03t/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/t03t/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/t03t/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/t03t/LeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/t03t/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/t03t/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
@@ -334,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/t03t/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/t03t/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/t03t/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/t03t/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/t03t/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/t03t/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1254-deepest-leaves-sum](https://github.com/t03t/LeetCode/tree/master/1254-deepest-leaves-sum) |
@@ -416,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/t03t/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/t03t/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/t03t/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/t03t/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/t03t/LeetCode/tree/master/0733-flood-fill) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/t03t/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1254-deepest-leaves-sum](https://github.com/t03t/LeetCode/tree/master/1254-deepest-leaves-sum) |
@@ -432,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/t03t/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/t03t/LeetCode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/t03t/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/t03t/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/t03t/LeetCode/tree/master/0733-flood-fill) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/t03t/LeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [1254-deepest-leaves-sum](https://github.com/t03t/LeetCode/tree/master/1254-deepest-leaves-sum) |
