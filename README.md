@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0953-reverse-only-letters](https://github.com/t03t/LeetCode/tree/master/0953-reverse-only-letters) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/t03t/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1297-maximum-number-of-balloons](https://github.com/t03t/LeetCode/tree/master/1297-maximum-number-of-balloons) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/t03t/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/t03t/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1666-make-the-string-great](https://github.com/t03t/LeetCode/tree/master/1666-make-the-string-great) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/t03t/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -239,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/t03t/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/t03t/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/t03t/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/t03t/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2358-number-of-ways-to-split-array](https://github.com/t03t/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/t03t/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Union Find
