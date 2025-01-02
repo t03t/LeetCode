@@ -17,7 +17,6 @@ class Solution:
         res = []
         print(vowel_words)
         for l, r in queries:
-            print(r)
             if (l, r) in query_cache:
                 res.append(query_cache[(l, r)])
             else:
