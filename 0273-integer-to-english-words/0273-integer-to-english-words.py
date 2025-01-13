@@ -53,11 +53,9 @@ class Solution:
         while num:
             trio_dig = num % 1000
             s = get_trio(trio_dig)
-            print(s)
             num = num // 1000
             if s:
                 res.append(s + " " + place_value[i])
-                print(res)
             i += 1
         
         return " ".join(reversed(res)).strip()
