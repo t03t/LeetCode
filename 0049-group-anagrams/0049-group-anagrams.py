@@ -1,13 +1,10 @@
+from collections import defaultdict
 class Solution:
-    
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        def sort(word: str):
-            return ''.join(sorted(list(word)))
-        groups = defaultdict(list)
-        for word in strs:
-            sorted_word = sort(word)
-            if sorted_word in groups:
-                groups[sorted_word].append(word)
-            else:
-                groups[sorted_word] = [word]
-        return groups.values()
+        anagram_dict = defaultdict(list)
+        for s in strs:
+            counts = [0] * 26
+            for l in s:
+                counts[ord(l) - ord('a')] += 1
+            anagram_dict[tuple(counts)].append(s)
+        return list(anagram_dict.values())
