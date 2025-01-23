@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/t03t/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/t03t/LeetCode/tree/master/0022-generate-parentheses) |
+| [0063-unique-paths-ii](https://github.com/t03t/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/t03t/LeetCode/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/t03t/LeetCode/tree/master/0392-is-subsequence) |
 | [0487-max-consecutive-ones-ii](https://github.com/t03t/LeetCode/tree/master/0487-max-consecutive-ones-ii) |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/t03t/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/t03t/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/t03t/LeetCode/tree/master/0056-merge-intervals) |
+| [0063-unique-paths-ii](https://github.com/t03t/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/t03t/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/t03t/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/t03t/LeetCode/tree/master/0118-pascals-triangle) |
@@ -426,6 +428,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0036-valid-sudoku](https://github.com/t03t/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/t03t/LeetCode/tree/master/0048-rotate-image) |
+| [0063-unique-paths-ii](https://github.com/t03t/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/t03t/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/t03t/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/t03t/LeetCode/tree/master/0733-flood-fill) |
